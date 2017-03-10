@@ -1,0 +1,8 @@
+{
+  "name": "openapi-ui",
+  "description": "React based OpenAPI 3.0+ documentation generator",
+  "repository": "https://github.com/contentjet/openapi-ui",
+  "keywords": ["documentation", "api", "swagger", "openapi", "openapi3"],
+  "env": {
+  }
+}
