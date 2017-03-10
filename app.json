@@ -4,5 +4,10 @@
   "repository": "https://github.com/contentjet/openapi-ui",
   "keywords": ["documentation", "api", "swagger", "openapi", "openapi3"],
   "env": {
-  }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/ddollar/heroku-buildpack-multi"
+    }
+  ]
 }
